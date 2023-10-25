@@ -1,0 +1,37 @@
+.root {
+    justify-items: center;
+    align-items: center;
+    flex-direction: column;
+    padding-left: 0rem;
+    padding-top: 6rem;
+    display: flex;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 3rem;
+    padding: 0.5rem 0rem;
+}
+
+.subtitle {
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+
+.text {
+    margin: 1rem;
+}
+
+.animation {
+    padding-right: 10%;
+    padding-left: 10%;
+    width: 60%;
+    height: 60%;
+    align-self: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-items: center;
+    align-content: center;
+    justify-content: center;
+}
